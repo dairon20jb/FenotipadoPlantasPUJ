@@ -1,0 +1,7 @@
+http://192.168.1.11:8888/static/cam11.jpeg
+http://192.168.1.12:8888/static/cam12.jpeg
+http://192.168.1.13:8888/static/cam13.jpeg
+http://192.168.1.14:8888/static/cam14.jpeg
+http://192.168.1.15:8888/static/cam15.jpeg
+http://192.168.1.16:8888/static/cam16.jpeg
+
